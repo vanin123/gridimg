@@ -1,0 +1,14 @@
+.titulo{
+    color: purple;
+    font-family: 'Anton', sans-serif;
+}
+
+.imagem{
+    width: 400px!important;
+    height: 450px!important;
+}
+
+.div-todasimagens{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
